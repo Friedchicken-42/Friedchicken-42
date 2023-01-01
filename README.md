@@ -7,6 +7,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedchicken-42&layout=compact&hide_title=true&hide_border=true&theme=transparent&langs_count=6)
 
-![](assets/eletric.gif)
+![](assets/misaka.gif)
 
 </div>
