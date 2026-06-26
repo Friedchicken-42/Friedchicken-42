@@ -2,8 +2,9 @@
 
 ***Coding stupid and useless stuff***
 
-![](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=black)
-![](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
+![Helix](https://img.shields.io/badge/Helix-706bc8?logo=helix&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)
 
 ![Metrics](/github-metrics.svg)
 
